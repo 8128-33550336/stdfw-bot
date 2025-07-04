@@ -1,0 +1,7 @@
+DISCORD_TOKEN=Discord Bot のトークン
+ALLOWED_GUILDS=Discord の鯖の ID (カンマ区切り)
+O365_SHAREPOINT_URL= 例: https://o365tsuku**-my.sharepoint.com/personal/s24*****_u_tsuku**_ac_jp
+RTFA=Cookieから貼り付け
+FEDAUTH=Cookieから貼り付け
+GITHUB_TOKEN=GitHub のトークン
+WORD_LIST_URL=例: https://api.github.com/repos/****-*****/****-wiki-static/contents/src/content/docs/members/list/2025.md
